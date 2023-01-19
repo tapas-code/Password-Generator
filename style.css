@@ -53,6 +53,7 @@ button{
 }
 button:hover{
     box-shadow: 0 0 8px #23b685;
+    cursor: pointer;
 }
 .line{
     margin-top: 16px;
@@ -70,4 +71,7 @@ button:hover{
     height: 39px;
     background: #273549;
     border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

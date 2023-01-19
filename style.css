@@ -18,7 +18,7 @@ body{
 }
 h1{
     margin-bottom: 0px;
-    font-family: 'Karla';
+    font-family: 'Karla',sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 40px;
@@ -30,7 +30,7 @@ h1{
 p{
     margin-top: 6px;
     color: #D5D4D8;
-    font-family: 'Inter';
+    font-family: 'Inter',sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 19px;
@@ -38,7 +38,7 @@ p{
 }
 
 button{
-    width: 160px;
+    width: 180px;
     background-color: #10B981;
     padding: 8px 16px;
     color: white;
